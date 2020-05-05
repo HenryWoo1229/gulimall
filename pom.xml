@@ -16,6 +16,9 @@
 		<module>coupon</module>
 		<module>product</module>
 		<module>ware</module>
+		<module>renren-fast</module>
+		<module>renren-generator</module>
+		<module>common</module>
 	</modules>
 
 
